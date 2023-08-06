@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 print('Hello world')
 print('Hello all')
 
@@ -6,3 +7,7 @@ def hello():
   print(f'Hello {name}')
 
 hello()
+=======
+print('Hello world!')
+print('Hello all!')
+>>>>>>> master
